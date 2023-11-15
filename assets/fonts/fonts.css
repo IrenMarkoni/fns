@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Roboto", sans-serif;
+  src: local("Roboto-Regular"), local("Roboto-Regular"),
+    url("Roboto-Regular.eot") format("eot"),
+    url("Roboto-Regular.otf") format("otf"),
+    url("Roboto-Regular.woff") format("woff"),
+    url("Roboto-Regular.woff2") format("woff2"),
+    url("Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Golos Text";
+  src: local("GolosText-Regular"), local("GolosText-Regular"),
+    url("GolosText-Regular.eot") format("eot"),
+    url("GolosText-Regular.otf") format("otf"),
+    url("GolosText-Regular.woff") format("woff"),
+    url("GolosText-Regular.woff2") format("woff2"),
+    url("GolosText-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Golos Text";
+  src: local("GolosText-SemiBold"), local("GolosText-SemiBold"),
+    url("GolosText-SemiBold.eot") format("eot"),
+    url("GolosText-SemiBold.otf") format("otf"),
+    url("GolosText-SemiBold.woff") format("woff"),
+    url("GolosText-SemiBold.woff2") format("woff2"),
+    url("GolosText-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Golos Text";
+  src: local("GolosText-Bold"), local("GolosText-Bold"),
+    url("GolosText-Bold.eot") format("eot"),
+    url("GolosText-Bold.otf") format("otf"),
+    url("GolosText-Bold.woff") format("woff"),
+    url("GolosText-Bold.woff2") format("woff2"),
+    url("GolosText-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Golos Text VF";
+  src: local("golos-text-vf-regular"), local("golos-text-vf-regular"),
+    url("golos-text-vf-regular.eot") format("eot"),
+    url("golos-text-vf-regular.otf") format("otf"),
+    url("golos-text-vf-regular.woff") format("woff"),
+    url("golos-text-vf-regular.woff2") format("woff2"),
+    url("golos-text-vf-regular.ttf") format("truetype");
+  font-weight: 400;
+}
